@@ -1,0 +1,19 @@
+{
+    "studentNames":[
+        {
+            "firstName": "Thao",
+            "lastName": "Vang",
+            "house": "Hufflepuff"
+        },
+        {
+            "firstName": "Trey",
+            "lastName": "Cade",
+            "house": "Sytherin"
+        },
+        {
+            "firstName": "Juan",
+            "lastName": "Heredia",
+            "house": "Gryffindor"
+        }
+    ]
+}
